@@ -1,2 +1,2 @@
-# Tutti-Story
+# Tutti-Store
 projeto integrador
